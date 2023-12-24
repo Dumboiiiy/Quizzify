@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944870308390",
+    "project_id": "quizzify-a37ea",
+    "storage_bucket": "quizzify-a37ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944870308390:android:24b88914c3d3ea8705c4e7",
+        "android_client_info": {
+          "package_name": "com.example.quizzify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0SnVpml8JZSnE-KnXWPRByV0323UxWNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
