@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizzify_02</string>
+    <string name="Login">LoginAndSignUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id" translatable="false">113639952041-qci9kmof1h1115hen7v7u3abfda7tmh2.apps.googleusercontent.com</string>
+</resources>
